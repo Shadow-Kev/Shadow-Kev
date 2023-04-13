@@ -12,10 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin or email
 - ⚡ Fun fact: Naruto is the best manga in the world
 
-# Connect with me:
+### Connect with me:
 
 
-# Languages and tools:
+### Languages and tools:
 
 
-# My daily routine: 
+### My daily routine: 
+
+```mermaid
+  graph TD;
+      code-->Eat;
+      Eat-->Sleep;
+      Sleep-->Code;
+```
