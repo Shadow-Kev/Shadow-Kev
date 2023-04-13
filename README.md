@@ -16,4 +16,5 @@ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/kevin-joel-agbeto-174b5a174/])](https://www.linkedin.com/in/kevin-joel-agbeto-174b5a174/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=[https://twitter.com/K_Joel_Ag])](https://twitter.com/K_Joel_Ag)
 
-Languages and tools: [<img align="left" alt="vs-code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />]
+Languages and tools: 
+[<img align="left" alt="vs-code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />]
